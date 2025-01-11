@@ -9,4 +9,4 @@ Code and text version of the tutorial on Docker, InkkaPlumChannel. | InkkaPlum�
 
 本教程中全部文字版教程和代码为 B 站: [InkkaPlum 频道](https://space.bilibili.com/290859233) 和知乎: [Inkka Plum](https://www.zhihu.com/people/instead-opt)的相关教程所用, 仅供学习。
 
-不得二次用于任何机构/个人再次录制 Docker 或其它任何语言, 框架, 架构, 工具等等教程中。
+不得二次用于任何机构/个人再次录制 Docker / Go / Redis / MySQL 或其它任何语言, 框架, 架构, 工具等等教程中。
